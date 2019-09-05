@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "serverlessreactawsam-dev-20190905012840-authRole",
+            "UnauthRoleArn": "arn:aws:iam::143688786007:role/serverlessreactawsam-dev-20190905012840-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::143688786007:role/serverlessreactawsam-dev-20190905012840-authRole",
+            "Region": "eu-west-2",
+            "DeploymentBucketName": "serverlessreactawsam-dev-20190905012840-deployment",
+            "UnauthRoleName": "serverlessreactawsam-dev-20190905012840-unauthRole",
+            "StackName": "serverlessreactawsam-dev-20190905012840",
+            "StackId": "arn:aws:cloudformation:eu-west-2:143688786007:stack/serverlessreactawsam-dev-20190905012840/b93e9f10-cf6b-11e9-a150-06bdc1af1230"
+        },
+        "categories": {
+            "auth": {
+                "serverlessreactawsamd03de909": {}
+            }
+        }
+    }
+}
